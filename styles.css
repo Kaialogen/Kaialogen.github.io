@@ -106,3 +106,9 @@ h1, h2, h3, h4 {
 p {
   line-height: 1.5;
 }
+
+.post, .about {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 60px 0;
+}
