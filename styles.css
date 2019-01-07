@@ -1,9 +1,15 @@
 body {
   color: #555;
+  margin: 0;
 }
 
 #header {
   background-color: #1abc9c;
     height: 150px;
+}
+
+#header-title {
+ display: block;
+  float: left;
 }
    
