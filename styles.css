@@ -63,3 +63,11 @@ body {
 #footer p {
   color: white;
 }
+
+a {
+  color: #1abc9c;
+  text-decoration: none;
+}
+a:hover {
+  color: #F6A623;
+}
